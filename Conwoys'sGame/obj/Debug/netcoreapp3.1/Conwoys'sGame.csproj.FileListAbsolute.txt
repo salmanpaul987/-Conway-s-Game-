@@ -1,0 +1,24 @@
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.exe
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.deps.json
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.runtimeconfig.json
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.runtimeconfig.dev.json
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.dll
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.pdb
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.dll
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.pdb
+C:\Users\abdul\source\repos\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.csprojAssemblyReference.cache
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.exe
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.deps.json
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.runtimeconfig.json
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.runtimeconfig.dev.json
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.dll
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\bin\Debug\netcoreapp3.1\Conwoys'sGame.pdb
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.csprojAssemblyReference.cache
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.AssemblyInfoInputs.cache
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.AssemblyInfo.cs
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.csproj.CoreCompileInputs.cache
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.dll
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.pdb
+D:\Freelancing\salmanpaul987\ORDER-9 -DEC-11-2019\ConwoysGame\Conwoys'sGame\Conwoys'sGame\obj\Debug\netcoreapp3.1\Conwoys'sGame.genruntimeconfig.cache
